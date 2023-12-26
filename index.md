@@ -1,3 +1,3 @@
-# This is an `<h1>` header, which is the largest
-## This is an `<h2>` header
-###### This is an `<h6>` header, which is the smallest
+# Step:1 add a header
+## Step 2: add an image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
